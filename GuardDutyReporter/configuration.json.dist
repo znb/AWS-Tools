@@ -1,0 +1,24 @@
+{
+  "accounts":{
+    "Production": {
+      "AccessKey": "SECRET",
+      "Secret": "PASTAMONSTER"
+    }
+  },
+
+  "detectors": {
+    "detector_id": "youruberdetectoridhere"
+  },
+
+  "slack": {
+    "admin":{
+      "key": "IDOFSLACKUSER"
+    },
+    "channel": {
+      "key": "#security"
+    },
+    "token": {
+      "key": "xoxb-lolbbqwtfkthxbibieber"
+    }
+  }
+}
