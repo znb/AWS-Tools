@@ -1,0 +1,24 @@
+{
+  "accounts":{
+    "Production": {
+      "AccessKey": "SECRETSAUCE",
+      "Secret": "SUPERSECRETSAUCE"
+    }
+  },
+
+  "slack": {
+    "admin":{
+      "key": "ADMINKEY"
+    },
+    "channel": {
+      "key": "#yoursuperchannelofdoom"
+    },
+    "token": {
+      "key": "xoxb-secret-squirrel-llamah"
+    }
+  },
+
+  "service_accounts": {
+    "terraform-prod":"user"
+  }
+}
